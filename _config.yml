@@ -1,12 +1,12 @@
 # Site settings
-title: The Wandering Blog
+title: Oasis of Lodo
 email: james@lord-family.net
-description: "A blog about whatever interests me."
+description: "Bringing a Dream to the Playa"
 baseurl: ""
 url: "http://jamesalord.github.io"
 twitter_username: jamesalord
 github_username:  jamesalord
-facebook_username:  jamesalord
+facebook_username:  james.lord.3
 
 # Build settings
 markdown: kramdown
