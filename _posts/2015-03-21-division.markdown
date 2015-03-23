@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "An Old Problem"
+date:       2015-03-21 12:00:00
+author:     "James Lord"
+header-img: "img/numbers.jpg"
+---
+
+An Old Problem
+=============
+
+Many years ago, during the first dot-com boom, I had an interview at a company populated by Caltech grads.  During the interview, they wanted to get a sense of my thinking process and asked a classic "unsolvable" question -- prove that a number is divisible by three if the sum of its digits is divisible by three.  My response was to talk about how I would approach the problem (mathematical induction, watch how digits roll over as you keep increasing the number, etc., etc.).  It must have been convincing since the interview resulted in an offer.  But, no, I did not solve the problem then.
+
+Fast forward 15 years (yipes!).  When I work out on a treadmill these days, I often watch Khan Academy videos.  Last month I was working my way through cryptography to understand how the RSA algorithm worked.  Part of the series consisted of someone breaking apart a set of beads into sets of equal size, showing remainders, and demonstrating how they can be grouped.  I highly recommend the series for anyone interested in the underpinnings of crypto.
+
+While commuting home one evening, my thoughts returned back to that interview problem of divison by three.  And I thought of the following example:  how many times does 3 go into 1000?  So ... 333x3 = 999 with remainder 1. Remainder 1, sum of digits is 1...  Eureka!  Problem solved!  Here is the insight from that car ride and how it works:
+
+1. Think about a number that consists of a digit followed by all zeros.  Like 1000.  The largest multiple of three less than 1000 is 999 -- leaving a remainder of 1.  1 also happens to be the first digit.  Let's take another example 3000.  If we use the same approach, we can subtract 3*999 which leaves 3, also the first digit.  This same approach holds whether the number is 10, 200, 5000, or 700000000.  If we subtract mulitples of 99... from the number, only the first digit will remain.
+
+2. Now let's consider a more complicated number, like 1200.  We use the same approach, but in this case we first break apart the number into the thousands and hundreds part.  So 1200 becomes 1000 + 200.  We do the 1000 (leaving 1) and we do the 200 (leaving 2).  When we add the remainders together you get three, which is divisible by three.  So 1200 is divisible by 3.  To recap, we are just "grouping"  the number into a sum of groups that we know are divisible by three, and what is left is then checked to see if it is divisible by three.
+
+	1200
+
+	1000 + 200
+
+	(1 + 999) + (2 + 99 +99)
+	
+	Since 999 and 99 are both divisible by three, we remove them
+
+	1 + 2
+
+	3
+
+	Since 3 is divisible by three, 1200 is divisible by three.
+
+3. This approach works for any arbitrary number by breaking it apart in a similar fashion.
+
+It's not a formal proof, but it's enough to convince me.  It would have been fun to have nailed it during the 45 minute inteview, but I lacked the insight to break apart the number into the different units (tens, hundreds, etc...)  In case you're wondering, no, I did not accept the offer.  I had one from a company with a "better" business model -- two years later to up in multi-billion dollar puff of smoke.  Hopefully my next interview challenge will go a little bit faster.
