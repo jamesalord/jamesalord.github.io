@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "An Old Problem"
+title:      "My Interview Challenge"
 date:       2015-03-21 12:00:00
 author:     "James Lord"
 header-img: "img/numbers.jpg"
 ---
 
-An Old Problem
+My Interview Challenge
 =============
 
 Many years ago, during the first dot-com boom, I had an interview at a company populated by Caltech grads.  During the interview, they wanted to get a sense of my thinking process and asked a classic "unsolvable" question -- prove that a number is divisible by three if the sum of its digits is divisible by three.  My response was to talk about how I would approach the problem (mathematical induction, watch how digits roll over as you keep increasing the number, etc., etc.).  It must have been convincing since the interview resulted in an offer.  But, no, I did not solve the problem then.
