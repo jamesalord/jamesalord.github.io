@@ -3,7 +3,7 @@ layout:     post
 title:      "My Interview Challenge"
 date:       2015-03-21 12:00:00
 author:     "James Lord"
-header-img: "img/numbers.jpg"
+header-img: "img/numbers2.png"
 ---
 
 My Interview Challenge
