@@ -39,13 +39,13 @@ This year, we really went bigger and better.  We swapped out the Cool Neon light
 
 All these improvements sound easy, but in reality were just as hard as the original.  I even broke down in tears of frustration once as Caravansary was nearing and nothing seemed to work right.  I finally set my expectations low -- please, please give me just one night when the damn thing works, and I will be happy, estatic even.  Chris and I broke it down from the garage, loaded it into the camper, and brought it east.
 
-We arrived at the gates on Sunday morning, and proceeded to the Artery (the BM Art Coordination folks) to get our spot.  There was a long line, and we hemmed and hawed at the different places we could put it (no - not there!  That are it too bright, it won't stand out!).  We finally settled on the inner Playa, just to the left of the Insanity sign.  We drove out to the site where an Artery-ist pounded a stake in the ground and said _put it here!_  We were off and running.  Late that evening, we were close to setup and called it quits.
+We arrived at the gates on Sunday morning, and proceeded to the Artery (the BM Art Coordination folks) to get our spot.  There was a long line, and we hemmed and hawed at the different places we could put it (no - not there!  That place is too bright, it won't stand out!).  We finally settled on the inner Playa, just to the left of the Insanity sign.  We drove out to the site where an Artery-ist pounded a stake in the ground and said _put it here!_  We were off and running.  Late that evening, we were close to setup and called it quits.
 
 ![Setting Up on the Playa](/img/LodoOnPlaya.jpg )
 
 The next day we finished.  We rode out to the site and fired up the generator to power it that evening.  Everything came on, people came by and loved it, and it worked great.  Every evening we would fix something that was broken and every night through the week it worked.  My favorite moment came when riding by and I saw one group of burners explaining it to another group.  Chris had done such a great job with the site that it was used even during the day -- we found out that on two separate occations couples had gotten married on the platform!
 
-This year was bigger, more successful installation than I had dared hope for.  It took more blood, sweat, tears, and $$ than I ever had thought, but we created a fun, unexpected experience for our fellow citizens.
+This year was a bigger, more successful installation than I had dared hope for.  It took more blood, sweat, tears, and $$ than I ever had thought, but we created a fun experience for our fellow citizens.
 
 ###Year 5 and Beyond###
 
