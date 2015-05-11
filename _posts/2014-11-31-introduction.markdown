@@ -24,9 +24,13 @@ During this time, I made a trip down to Cool Neon (insert link) in Oakland to lo
 
 The first game coded we made was Simon.  The box would "play" a square, then the player would stop on that square.  Then the game would play a sequence of 2 squares, and you step on the same two squares in order.  The game then "plays" 3, then 4, 5, 6, and up to 7.  If you miss any of the sequence, a red X flashes, and the sequence repeats.  Miss three times and you lose.  The "field tests" we conducted at Oakland's Art Murmur went pretty well, but without sound it wasn't too captivating.
 
-My son Robert who had been watching me slave over this work, said _Um, this would be really cool if it played pong..._.  I told him that he was free to program it, but I was too busy making damn thing work.  Three days later, he had version 1 up and running.  Turns out that Pong is a much better game than Simon (Doh!)
+My son Robert who had been watching me slave over this work, said _Um, this would be really cool if it played pong..._.  I told him that he was free to program it, but I was too busy making damn thing work.  Three days later, he had version 1 up and running.  Turns out that Pong is a much better game than Simon (Doh!) 
 
-The last step was to name it and create a site.  We thought of cargo crates on a loading dock, above which a broken sign hangs with only the letters Lo & Do remaining from Loading Dock (remember, Cargo Cult theme).  LoDo...  get it?  Chris painted the boxes camoflauge, then added a sign, desk, light, and other items that might be found in a 1940's Naval airbase loading dock.  We schlepped the boxes, batteries and gear to our camp (Burntown), set it up and flipped it on.  The highlight of the week was coming home in the wee hours of the morning to be challenged by a stranger to a game of pong.  Success!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EclHhFcBG7s" frameborder="0" allowfullscreen></iframe>
+
+The last step was to name it and create a site.  We thought of cargo crates on a loading dock, above which a broken sign hangs with only the letters Lo & Do remaining from Loading Dock (remember, Cargo Cult theme).  LoDo...  get it?  Chris painted the boxes camoflauge, then added a sign, desk, light, and other items that might be found in a 1940's Naval airbase loading dock.  We schlepped the boxes, batteries and gear to our camp (Burntown), set it up and flipped it on.  The highlight of the week was coming home in the wee hours of the morning to be challenged by a stranger to a game of pong.  Success! 
+
+<img src="/img/LodoSmall.jpg" align="left" width="300" style="PADDING-RIGHT: 15px;"/>
 
 The downside of placing it in camp is that there are so many lights in the city, that even Lodo with its 400 LEDs disappeared into the mix.  Next year, we were determined to bring it back bigger, brighter, and most importantly -- to the Playa!
 
@@ -37,10 +41,12 @@ All these improvements sound easy, but in reality were just as hard as the origi
 
 We arrived at the gates on Sunday morning, and proceeded to the Artery (the BM Art Coordination folks) to get our spot.  There was a long line, and we hemmed and hawed at the different places we could put it (no - not there!  That are it too bright, it won't stand out!).  We finally settled on the inner Playa, just to the left of the Insanity sign.  We drove out to the site where an Artery-ist pounded a stake in the ground and said _put it here!_  We were off and running.  Late that evening, we were close to setup and called it quits.
 
+![Setting Up on the Playa](/img/LodoOnPlaya.jpg )
+
 The next day we finished.  We rode out to the site and fired up the generator to power it that evening.  Everything came on, people came by and loved it, and it worked great.  Every evening we would fix something that was broken and every night through the week it worked.  My favorite moment came when riding by and I saw one group of burners explaining it to another group.  Chris had done such a great job with the site that it was used even during the day -- we found out that on two separate occations couples had gotten married on the platform! <names and photo?>
 
 This year was bigger, more successful installation than I had dared hope for.  It took more blood, sweat, tears, and $$ than I ever had thought, but we created a fun, unexpected experience for our fellow citizens.
 
 ###Year 5 and Beyond###
 
-And what does the future hold?  Lodo will be back on the playa for <BM Event> with more fit, sound and polish.  But it days are numbered.  The pressure sensors & LEDs that drive LoDo are being replaced by large format touch screens (you can find some really cool ones on You Tube), which makes Lodo look quaint.  Rather than move toward even more expensive technologies, I have been wondering about other things... like how to put brightly colored interactive objects in the sky.  How would it feel to walk under an eye in the sky that follows you? If you combining a flat spring with cable or rope, you could create a light-weight geodesic like dome.  With a few helium ballons, perhaps?  Look me up in Burntown, and see if it gets off the ground.
+And what does the future hold?  Lodo will be back on the playa for <BM Event> with more fit, sound and polish.  But its days are numbered.  The pressure sensors & LEDs that drive LoDo are being replaced by large format touch screens (you can find some really cool ones on You Tube), which makes Lodo look quaint.  Rather than move toward even more expensive technologies, I have been wondering about other things... like how to put brightly colored interactive objects in the sky.  How would it feel to walk under an eye in the sky that follows you? If you combining a flat spring with cable or rope, you could create a light-weight geodesic like dome.  With a few helium ballons, perhaps?  Look me up in Burntown, and see if it gets off the ground.
