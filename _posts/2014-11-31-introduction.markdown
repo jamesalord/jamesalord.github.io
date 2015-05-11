@@ -3,7 +3,7 @@ layout:     post
 title:      "A Brief History of LoDo"
 date:       2014-11-31 12:00:00
 author:     "James Lord"
-header-img: "img/LodoTwilight.png"
+header-img: "img/LodoTwilight.jpg"
 ---
 
 Oasis of Lodo
