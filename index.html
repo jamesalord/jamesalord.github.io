@@ -21,6 +21,14 @@ header-img: "img/lodo-game.jpg"
 <hr>
 {% endfor %}
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
